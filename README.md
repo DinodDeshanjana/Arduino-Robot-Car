@@ -1,0 +1,3 @@
+I designed and built a remote-controlled robot car using Arduino. This car can be controlled through a mobile phone application and is equipped with sensors and actuators to enhance its functionality.
+
+The Arduino car project is a remote-controlled smart vehicle designed to navigate its surroundings with ease. It features obstacle detection and can be controlled via a mobile app, making it both interactive and functional. The car operates using motors, sensors, and actuators, allowing smooth movement and improved automation. Built with Arduino, IoT technology, and C++ programming, this project enhances my skills in both hardware and software development, and I aim to add more advanced features in the future.
